@@ -1,0 +1,31 @@
+{
+  "NTProvider": {
+    "types": {
+      "/AdvantageKit/RealOutputs/Climber/Mechanism2d": "Mechanism2d",
+      "/FMSInfo": "FMSInfo"
+    },
+    "windows": {
+      "/AdvantageKit/RealOutputs/Climber/Mechanism2d": {
+        "window": {
+          "visible": true
+        }
+      }
+    }
+  },
+  "NetworkTables": {
+    "Persistent Values": {
+      "open": false
+    },
+    "transitory": {
+      "LiveWindow": {
+        "open": true
+      },
+      "Shuffleboard": {
+        "open": true
+      }
+    }
+  },
+  "NetworkTables Info": {
+    "visible": true
+  }
+}
